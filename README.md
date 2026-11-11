@@ -1,6 +1,6 @@
 # Research code to Pinner et al., (*in prep.*) <!-- omit in toc -->
 
- [![DOI](https://zenodo.org/badge/1216281022.svg)](https://doi.org/10.5281/zenodo.24145713) 
+[![DOI](https://zenodo.org/badge/1216281022.svg)](https://doi.org/10.5281/zenodo.24145713)
 [![License MIT license](https://img.shields.io/github/license/opinner/pinner2026_JPO_code)](./LICENSE)
 ![Paper DOI](https://img.shields.io/badge/Paper%20DOI%20-%20in%20prep.%20-%20%2520%2523f3d50d?color=ecd11d)
 <!---  [![build](https://github.com/opinner/pinner2026_JPO_code/actions/workflows/main.yml/badge.svg)](https://github.com/opinner/pinner2026_JPO_code/actions/) -->
