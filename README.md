@@ -19,7 +19,7 @@ Therefore, heavy refactoring is needed. There is even a third repo, where I code
 
 To reproduce the project, clone this repository on your machine
 ```bash
-git clone https://github.com/opinner/pinner2026_JPO_code
+git clone https://github.com/opinner/pinner2027_JPO_code
 ```
 The software environment, including all necessary packages, is documented in a more human-readable way in `pyproject.toml` and down to specific version hashes in `requirements.txt`.
 The easiest way is to recreate it, is to have [`uv`](https://docs.astral.sh/uv/0) installed, and then run the terminal command `$ uv venv` to build the project environment 
