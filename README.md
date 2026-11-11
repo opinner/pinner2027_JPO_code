@@ -5,7 +5,7 @@
 > [!WARNING]
 > This is the associated research code to the **upcoming** publication *Surface-driven near-inertial waves determine the seasonal variability of bottom-near turbulence in the Weddell Sea Bottom Water Gravity Current*  by Pinner & Kanzow.
 > Because the publication is still under review, this code is also not yet final. Unused code is not yet fully cleaned up, breaking changes can occur at any time, and the documentation is not yet completed.
-
+> The method to calculate time series is currently refactored to the python package *dissipy* and will be soon available.
 
 <!---
 Currently this project still contains messy code, most importantly that the methods are banned to `quarantine/_dissip_time_series/`. 
@@ -14,8 +14,6 @@ Therefore, heavy refactoring is needed. There is even a third repo, where I code
 -->
 
 ### Reproducibility Setup
-
-
 
 To reproduce the project, clone this repository on your machine
 ```bash
