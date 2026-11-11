@@ -1,4 +1,4 @@
-# Research code to the **upcoming** publication Pinner et al., 2027 <!-- omit in toc -->
+# Research code to Pinner et al., (*in prep.*) <!-- omit in toc -->
 
 [![License MIT license](https://img.shields.io/github/license/opinner/pinner2026_JPO_code)](./LICENSE) <!--- Should automatically start to work once the project is public  [![build](https://github.com/opinner/pinner2026_JPO_code/actions/workflows/main.yml/badge.svg)](https://github.com/opinner/pinner2026_JPO_code/actions/) -->
 
