@@ -10,7 +10,7 @@
 > Because the publication is still under review, this code is also not yet final. Unused code is not yet fully cleaned up, breaking changes can occur at any time, and the documentation is not yet completed.
 
 > [!NOTE]
-> The method to calculate time series of dissipation rates is not part of this repo and is currently refactored to the python package *dissipy* and will be soon available.
+> This repository reproduces the figures and results of the associated paper. However, the method to calculate time series of dissipation rates is encapsulated to the python package *dissipy*, which is currently refactored and soon available.
 
 <!---
 Currently this project still contains messy code, most importantly that the methods are banned to `quarantine/_dissip_time_series/`. 
@@ -39,7 +39,7 @@ and then
 ```
 
 > [!NOTE]
-> scripts prefixed with `HPC` were executed on AWI's HPC and are included just for documentary purposes/transparency of the calculations. They will most likely not run in a local environment.
+> scripts prefixed with `HPC` were executed on AWI's HPC system and are included just for documentary purposes/transparency of the calculations. They will most likely not run in a local environment.
 
 
 ## Contact & Issues
